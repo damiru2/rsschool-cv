@@ -59,3 +59,21 @@ for (let score of games) {
 ```
 
 ---
+
+### Education:
+
+Eurasian National University, Astana <br />
+Information Systems.
+
+---
+
+### Courses:
+
+- Python for beginners. [Certificate](https://stepik.org/cert/1138639);
+- ICND-1.
+
+---
+
+### English:
+
+B2. I work for a foreign company and have been in the USA while studying at university.
